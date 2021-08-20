@@ -6,9 +6,9 @@ I Spend most of my time in terminals, Learn deeply, Learn everyday, Solve proble
 
 #### 😄 Pronouns: He/Him
 
-#### ⚡ Fun fact: I'm very much never who you think I am.
+#### ⚡ Fun fact: I'm very much never who you think I am 😉.
 
-#### ✍🏾 Favourite Line: Microsoft gives you windows, Linux gives you the whole house.
+#### ✍🏾 Favourite Line: No matter how much you know, there's always more you don't know than you know.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymouX47&show_icons=true&theme=dark&hide_title=true)
 
@@ -23,8 +23,8 @@ I Spend most of my time in terminals, Learn deeply, Learn everyday, Solve proble
 |---|---|---|
 
 **Learning**
-| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" width="30">](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" width="30">](https://vim.help/41-write-a-vim-script) |
-|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" width="30">](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" width="30">](https://vim.help/41-write-a-vim-script) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="30">](https://www.java.com) |
+|---|---|---|
 
 ### Tools
 **Knowing/using**
