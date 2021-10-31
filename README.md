@@ -10,11 +10,15 @@ I Spend most of my time in terminals, Learn deeply, Learn everyday, Solve proble
 
 #### ✍🏾 Favourite Line: No matter how much you know, there's always more you don't know than you know.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymouX47&show_icons=true&theme=dark&hide_title=true)
+### Github Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnonymouX47&show_icons=true&theme=dark&hide_title=true)
+<a href="https://github.com/AnonymouX47">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymouX47&layout=compact&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&exclude_repo=" alt="AnonymouX47's Language Stats" />
+</a>
 
 #### 🔭 I’m currently working on ...
+- [img](https://github.com/AnonymouX47/img)
 - [matrix](https://github.com/AnonymouX47/matrix)
-- [SpotiByeAds](https://github.com/daspartho/SpotiByeAds)
 
 ### Programming Languages
 **Knowing/using**
