@@ -17,7 +17,7 @@ I Spend most of my time in terminals, Learn deeply, Learn everyday, Solve proble
 </a>
 
 #### 🔭 I’m currently working on ...
-- [img](https://github.com/AnonymouX47/img)
+- [term-img](https://github.com/AnonymouX47/term-img)
 - [matrix](https://github.com/AnonymouX47/matrix)
 
 ### Programming Languages
