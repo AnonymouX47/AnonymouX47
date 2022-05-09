@@ -20,7 +20,7 @@ I Spend most of my time in terminals, Learn deeply, Learn everyday, Solve proble
 </a>
 
 #### 🔭 I’m currently working on ...
-- [term-img](https://github.com/AnonymouX47/term-img)
+- [term-image](https://github.com/AnonymouX47/term-image)
 
 ### Programming Languages
 **Knowing/using**
