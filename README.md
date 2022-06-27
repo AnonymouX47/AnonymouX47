@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Embedded Systems software engineer (in the making), Linux user, Vim advocate, Hubby gamer...
+I'm an Embedded Systems and Software Engineer (in the making), Linux user, Vim advocate, Hubby gamer...
 
-I Spend most of my time in terminals, Learn deeply, Learn everyday, Solve problems...
+I Spend most of my time buried in terminals, Learn deeply, Learn everyday, Solve problems...
 
 #### 😄 Pronouns: He/Him
 
@@ -22,28 +22,13 @@ I Spend most of my time in terminals, Learn deeply, Learn everyday, Solve proble
 #### 🔭 I’m currently working on ...
 - [term-image](https://github.com/AnonymouX47/term-image)
 
-### Programming Languages
-**Knowing/using**
-
-| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="30">](https://en.cppreference.com/w/c) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="30">](https://www.python.org/) |
-|---|---|
-
-**Learning**
-| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" width="30">](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" width="30">](https://vim.help/41-write-a-vim-script) |
-|---|---|
-
-### Tools
-**Knowing/using**
-| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="30">](https://www.linux.org) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" width="30">](https://en.wikipedia.org/wiki/Terminal_emulator) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" width="30">](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" width="30">](https://www.vim.org) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="30">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="30">](https://www.github.com) |
-|---|---|---|---|---|---|
-
-**Learning**
-| [<img src="https://raw.githubusercontent.com/github/explore/main/topics/raspberry-pi/raspberry-pi.png" width="30">](https://www.raspberrypi.org/) |
-|---|
-
 ### Contact
+- LinkedIn: [My Profile](https://www.linkedin.com/in/toluwaleke-ogundipe/)
 - Hit me up on Discord @ `AnonymouX47#5617` 😃
+- Or via email (somewhere on this page)
 
+
+### PLEASE NOTE: I prefer to go by my username anywhere, anytime, with the exception of official situations. Thanks!
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
