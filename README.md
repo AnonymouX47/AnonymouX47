@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Embedded Systems and Software Engineer (in the making), Linux user, Vim advocate, Hubby gamer...
+I'm an aspiring Systems Programmer and Software Engineer, Linux user, Vim advocate, Hubby gamer...
 
 I Spend most of my time buried in terminals, Learn deeply, Learn everyday, Solve problems...
 
@@ -21,6 +21,7 @@ I Spend most of my time buried in terminals, Learn deeply, Learn everyday, Solve
 
 #### 🔭 I’m currently working on ...
 - [term-image](https://github.com/AnonymouX47/term-image)
+- [mat47](https://github.com/AnonymouX47/mat47)
 
 ### Contact
 - LinkedIn: [My Profile](https://www.linkedin.com/in/toluwaleke-ogundipe/)
@@ -28,7 +29,7 @@ I Spend most of my time buried in terminals, Learn deeply, Learn everyday, Solve
 - Or via email (somewhere on this page)
 
 
-### PLEASE NOTE: I prefer to go by my username anywhere, anytime, with the exception of official situations. Thanks!
+#### PLEASE NOTE: I prefer to go by my username anywhere, anytime, with the exception of official situations. Thanks!
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
