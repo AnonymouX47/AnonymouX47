@@ -1,10 +1,12 @@
+<a href="https://www.buymeacoffee.com/anonymoux47" target="_blank">
+  <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
+
 ### Hi there 👋
 
-I'm an aspiring Systems Programmer and Software Engineer, Linux user, Vim advocate, Hubby gamer...
+I'm a Software Engineer, aspiring Systems Programmer, Linux user, Vim advocate, Hubby gamer...
 
 I Spend most of my time buried in terminals, Learn deeply, Learn everyday, Solve problems...
-
-#### 😄 Pronouns: He/Him
 
 #### ⚡ Fun fact: I'm very much never who you think I am 😉.
 
@@ -21,11 +23,12 @@ I Spend most of my time buried in terminals, Learn deeply, Learn everyday, Solve
 
 #### 🔭 I’m currently working on ...
 - [term-image](https://github.com/AnonymouX47/term-image)
-- [mat47](https://github.com/AnonymouX47/mat47)
+- [termvisage](https://github.com/AnonymouX47/termvisage)
+- [urwidgets](https://github.com/AnonymouX47/urwidgets)
 
 ### Contact
-- LinkedIn: [My Profile](https://www.linkedin.com/in/toluwaleke-ogundipe/)
 - Hit me up on Discord @ `AnonymouX47#5617` 😃
+- [LinkedIn](https://www.linkedin.com/in/toluwaleke-ogundipe/)
 - Or via email (somewhere on this page)
 
 
