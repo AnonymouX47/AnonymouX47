@@ -1,7 +1,3 @@
-<a href="https://www.buymeacoffee.com/anonymoux47" target="_blank">
-  <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-</a>
-
 ### Hi there 👋
 
 I'm a Software Engineer, aspiring Systems Programmer, Linux user, Vim advocate, Hubby gamer...
@@ -31,7 +27,11 @@ I Spend most of my time buried in terminals, Learn deeply, Learn everyday, Solve
 - [LinkedIn](https://www.linkedin.com/in/toluwaleke-ogundipe/)
 - Or via email (somewhere on this page)
 
+<a href="https://www.buymeacoffee.com/anonymoux47" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
 
+* * *
 #### PLEASE NOTE: I prefer to go by my username anywhere, anytime, with the exception of official situations. Thanks!
 <!--
 - 👯 I’m looking to collaborate on ...
