@@ -2,7 +2,7 @@
 
 I'm a software engineer, linux user, vim advocate, hubby gamer...
 
-I spend most of my time buried in terminals, learning and solving problems.
+I spend most of my time buried in terminals - learning and solving problems.
 
 > "No matter how much you know, there's always more you don't know than you know"
 >
@@ -20,10 +20,9 @@ I spend most of my time buried in terminals, learning and solving problems.
 #### 🔭 I’m currently working on ...
 - [term-image](https://github.com/AnonymouX47/term-image)
 - [termvisage](https://github.com/AnonymouX47/termvisage)
-- [urwidgets](https://github.com/AnonymouX47/urwidgets)
 
 ### Contact
-- Discord: `anonymoux47#0`
+- Discord: @anonymoux47#0
 - [LinkedIn](https://www.linkedin.com/in/toluwaleke-ogundipe/)
 - Email: somewhere on this page
 
