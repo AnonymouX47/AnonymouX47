@@ -32,7 +32,8 @@ I spend most of my time buried in terminals - learning and solving problems.
 
 - - -
 
-#### PLEASE NOTE: I prefer to go by my username anywhere, anytime, with the exception of official situations. Thanks!
+> [!NOTE]
+> I prefer to go by my username anywhere, anytime, with the exception of official situations. Thanks!
 
 <!--
 - 👯 I’m looking to collaborate on ...
