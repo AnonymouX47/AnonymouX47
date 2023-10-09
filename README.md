@@ -17,7 +17,7 @@ I spend most of my time buried in terminals - learning and solving problems.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymouX47&layout=compact&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&exclude_repo=" alt="AnonymouX47's Language Stats" />
 </a>
 
-#### 🔭 I’m currently working on ...
+### I’m currently working on ...
 - [term-image](https://github.com/AnonymouX47/term-image)
 - [termvisage](https://github.com/AnonymouX47/termvisage)
 
@@ -33,7 +33,9 @@ I spend most of my time buried in terminals - learning and solving problems.
 - - -
 
 > [!NOTE]
-> I prefer to go by my username anywhere, anytime, with the exception of official situations. Thanks!
+> I prefer to go by my username anywhere, anytime, with the exception of official situations.
+>
+> Thanks!
 
 <!--
 - 👯 I’m looking to collaborate on ...
