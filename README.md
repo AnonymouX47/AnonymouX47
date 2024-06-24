@@ -22,7 +22,7 @@ I spend most of my time buried in terminals - learning and solving problems.
 - [termvisage](https://github.com/AnonymouX47/termvisage)
 
 ### Contact
-- Discord: @anonymoux47#0
+- Discord: @anonymoux47
 - [LinkedIn](https://www.linkedin.com/in/toluwaleke-ogundipe/)
 - Email: somewhere on this page
 
