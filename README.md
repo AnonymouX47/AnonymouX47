@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer, linux user, hubby gamer...
+I'm a software engineer, linux user, hobby gamer...
 
 I spend most of my time buried in terminals - learning and solving problems.
 
